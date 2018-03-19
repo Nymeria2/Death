@@ -1,0 +1,103 @@
+body{
+background-color: rgb(237, 205, 26);
+   }
+   
+   .zanr{
+        font-family: "elephant";
+        color: rgb(161, 37, 85);
+        font-size: 70px;
+        text-align: center;
+        line-height: 1px;
+   }
+   
+   .autor{
+       font-family: "elephant"; 
+   }
+   
+   h1{
+       font-style: oblique;
+       color: rgb(161, 37, 85);
+       font-family: "elephant";
+       text-decoration: underline;
+       text-align: center;
+   }
+   
+   h2{
+       font-family: "book antiqua";
+       color: rgb(97, 24, 102);
+       
+   }
+   #uvod{
+    color: rgb(245, 24, 24);
+    font-weight: normal;
+    text-align: left;
+    margin: 10px;
+    line-height: 30px;
+    width: 900px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    padding: 1%;
+    border: dashed red 1px;
+    float: none;
+    text-align: justify;
+    
+   }
+  .zdroj{
+      font-size:12px;
+  }
+ .autor{
+       font-size: 17px;
+   }
+
+.první{
+    color: rgb(245, 24, 24);
+    font-weight: normal;
+    text-align: left;
+    margin: 8px;
+    line-height: 25px;
+    width: 900px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    padding: 1%;
+    border: dashed red 1px;
+    float: none;
+    text-align: justify;
+    }
+  #druhý{
+     color: rgb(245, 24, 24);
+    font-weight: normal;
+    text-align: left;
+    margin: 8px;
+    line-height: 25px;
+    width: 900px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    padding: 1%;
+    border: dashed red 1px;
+    float: none;
+    text-align: justify;  
+  }
+  #třetí{
+       color: rgb(245, 24, 24);
+    font-weight: normal;
+    text-align: left;
+    margin: 10px;
+    line-height: 25px;
+    width: 900px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    padding: 2%;
+    border: dashed red 1px;
+    float: none;
+    text-align: justify; 
+  }
+#konec{
+   color: rgb(245, 24, 24);
+    font-weight: normal;
+    text-align: left;
+    margin: 10px;
+    width: 900px;
+    text-transform: uppercase;
+    text-align: justify;
+    font-weight: bold;
+}
